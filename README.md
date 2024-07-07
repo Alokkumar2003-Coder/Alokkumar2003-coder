@@ -2,7 +2,7 @@
 ### <div align="center">I'm Alok kumar, a full-time Java developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on E-commerce Platform  
+- 🔭 I’m currently working on Vs-code Platform
   
 
 - 🌱 I’m currently learning Java Swing 
