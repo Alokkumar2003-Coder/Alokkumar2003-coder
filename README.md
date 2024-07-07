@@ -2,16 +2,16 @@
 ### <div align="center">I'm Alok kumar, a full-time Java developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on Vs-code Platform
+- 🔭 I’m currently working on Vs-code Platform. 
   
 
-- 🌱 I’m currently learning Java Swing . 
+- 🌱 I’m currently learning Java Swing. 
   
 
-- ❓ Ask me about anything related to C/C++, HTML, CSS, Java , Python and MySql.. 
+- ❓ Ask me about anything related to C/C++, HTML, CSS, Java , Python and MySql.
   
 
-- ⚡ Fun fact: I use tabs over spaces . 
+- ⚡ Fun fact: I use tabs over spaces. 
   
 
 <br/>  
