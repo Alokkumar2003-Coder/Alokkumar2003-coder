@@ -2,10 +2,10 @@
 ### <div align="center">I'm Alok kumar, a full-time Flutter developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on Java web Projects. 
+- 🔭 I’m currently working on App Building Projects. 
   
 
-- 🌱 I’m currently learning Java Programming. 
+- 🌱 I’m currently learning Flutter using Dart Programming. 
   
 
 - ❓ Ask me about anything related to C/C++, HTML, CSS, Java , Python and MySql.
