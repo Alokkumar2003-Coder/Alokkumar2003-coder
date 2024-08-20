@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Flutter using Dart Programming. 
   
 
-- ❓ Ask me about anything related to Flutter, Dart, C/C++, HTML, CSS, Java , Python and MySql.
+- ❓ Ask me about anything related to Dart, C/C++, HTML, CSS, Java , Python and MySql.
   
 
 - ⚡ Fun fact: I use tabs over spaces. 
