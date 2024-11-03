@@ -1,14 +1,14 @@
 
-### <div align="center">I'm Alok kumar, a full-time Flutter developer 👨‍💻</div>  
+### <div align="center">I'm Alok kumar, a full-time Java Backend developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on App Building Projects. 
+- 🔭 I’m currently working on Frontend Building Projects. 
   
 
-- 🌱 I’m currently learning Flutter using Dart Programming. 
+- 🌱 I’m currently learning Spring Boot and Java Script Programming. 
   
 
-- ❓ Ask me about anything related to Dart, C/C++, HTML, CSS, Java , Python and MySql.
+- ❓ Ask me about anything related to Springboot, Rest APIs, Dart, C/C++, HTML, CSS, Java , Python and MySql.
   
 
 - ⚡ Fun fact: I use tabs over spaces. 
