@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Spring Boot and Java Script Programming. 
   
 
-- ❓ Ask me about anything related to Springboot, Rest APIs, Dart, C/C++, HTML, CSS, Java , Python and MySql.
+- ❓ Ask me about anything related to Springboot, Rest APIs, Dart, C/C++, HTML, CSS, JavaScript, Java , Python and MySql.
   
 
 - ⚡ Fun fact: I use tabs over spaces. 
