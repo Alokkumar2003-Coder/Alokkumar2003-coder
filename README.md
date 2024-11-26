@@ -36,7 +36,7 @@
 <div align="center"> 
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>   
 <a href="https://spring.io/projects/spring-boot" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springboot-logo.svg" alt="Spring Boot" height="50" />
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="Spring Boot" height="50" />
 </a>
 
 </div>  
