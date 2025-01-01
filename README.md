@@ -1,14 +1,14 @@
 
-### <div align="center">I'm Alok kumar, a full-time Java Backend developer 👨‍💻</div>  
+### <div align="center">I'm Alok kumar, a full-time Full-Stack developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on Frontend Building Projects. 
   
 
-- 🌱 I’m currently learning Spring Boot and Java Script Programming. 
+- 🌱 I’m currently learning  MERN STACK. 
   
 
-- ❓ Ask me about anything related to Springboot, Rest APIs, Dart, C/C++, HTML, CSS, JavaScript, Java , Python and MySql.
+- ❓ Ask me about anything related to MongoDB, ReactJs, Express Js, Node Js, Springboot, Rest APIs, Dart, HTML, CSS, JavaScript, Java , Python and MySql.
   
 
 - ⚡ Fun fact: I use tabs over spaces. 
