@@ -2,13 +2,13 @@
 ### <div align="center">I'm Alok kumar, a full-time Full-Stack developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on Frontend Building Projects. 
+- 🔭 I’m currently working on Fullstack Building Projects. 
   
 
-- 🌱 I’m currently learning  MERN STACK. 
+- 🌱 I’m currently learning  Python Development. 
   
 
-- ❓ Ask me about anything related to MongoDB, ReactJs, Express Js, Node Js, Springboot, Rest APIs, Dart, HTML, CSS, JavaScript, Java , Python and MySql.
+- ❓ Ask me about anything related to MongoDB, ReactJs, Express Js, Node Js, Springboot, Rest APIs, Dart, HTML, CSS, JavaScript, Python and MySql.
   
 
 - ⚡ Fun fact: I use tabs over spaces. 
