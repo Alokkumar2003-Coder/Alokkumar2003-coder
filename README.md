@@ -5,10 +5,10 @@
 - 🔭 I’m currently working on Fullstack Building Projects. 
   
 
-- 🌱 I’m currently learning  Python Development. 
+- 🌱 I’m currently learning  MERN Development. 
   
 
-- ❓ Ask me about anything related to MongoDB, ReactJs, Express Js, Node Js, Django, Rest APIs, Dart, HTML, CSS, JavaScript, Python and MySql.
+- ❓ Ask me about anything related to MongoDB, ReactJs, Express Js, Node Js, Rest APIs, HTML, CSS, JavaScript, Python and MySql.
   
 
 - ⚡ Fun fact: I use tabs over spaces. 
