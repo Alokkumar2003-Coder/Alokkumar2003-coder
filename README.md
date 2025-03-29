@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning  MERN Development. 
   
 
-- ❓ Ask me about anything related to MongoDB, ReactJs, Express Js, Node Js, Rest APIs, HTML, CSS, JavaScript, Java, Python and MySql.
+- ❓ Ask me about anything related to MongoDB, ReactJs, Express Js, Node Js, Rest APIs, HTML, CSS, JavaScript, Java, Python, Docker and MySql.
   
 
 - ⚡ Fun fact: I use tabs over spaces. 
