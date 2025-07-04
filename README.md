@@ -29,7 +29,7 @@
 <br>
 <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" />
 <br>
-<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss-icon.svg" height="50" alt="Tailwind CSS"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="50" alt="Tailwind CSS"/>
 
 </td>
 <td align="center" width="33%">
@@ -41,9 +41,9 @@
 <br>
 <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="50" />
 <br>
-<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="50" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/>
 <br>
-<img src="https://profilinator.rishav.dev/skills-assets/github-original-wordmark.svg" height="50" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="50" alt="GitHub"/>
 
 </td>
 <td align="center" width="33%">
