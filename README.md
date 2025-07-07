@@ -10,7 +10,7 @@
 - 🌱 Learning **Docker**, **Clean Architecture**, and **Scalable Systems**  
 - 🧠 Passionate about **backend logic**, **database performance**, and **API integrations**  
 - 💬 Ask me about `MongoDB`, `React.js`, `Express.js`, `Node.js`, `REST APIs`, `Tailwind CSS`, `Git`, `Docker`  
-- 🎯 Fun Fact: I write use tab over tab 😎
+- 🎯 Fun Fact: I use tab over tab 😎
 
 ---
 
