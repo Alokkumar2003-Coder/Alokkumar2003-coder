@@ -9,8 +9,8 @@
 - 🔭 Currently building full-stack apps with the **MERN Stack**  
 - 🌱 Learning **Docker**, **Clean Architecture**, and **Scalable Systems**  
 - 🧠 Passionate about **backend logic**, **database performance**, and **API integrations**  
-- 💬 Ask me about `MongoDB`, `React.js`, `Express.js`, `Node.js`, `REST APIs`, `Tailwind CSS`, `Git`, `Docker`  
-- 🎯 Fun Fact:  “Octocat,” is half cat, half octopus! 😎
+- 💬 Ask me about `MongoDB`, `React.js`, `Next.js`, `Express.js`, `Node.js`, `TypeScript`, `REST APIs`, `Tailwind CSS`, `Git`, `Docker`, `GitHub Actions`  
+- 🎯 Fun Fact:  “Octocat,” is half cat, half octopus! 😎  
 
 ---
 
@@ -29,6 +29,10 @@
 <br>
 <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" />
 <br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" height="50" alt="Next.js"/>
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript"/>
+<br>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="50" alt="Tailwind CSS"/>
 
 </td>
@@ -44,6 +48,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/>
 <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="50" alt="GitHub"/>
+<br>
+<img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" height="50" alt="GitHub Actions"/>
 
 </td>
 <td align="center" width="33%">
